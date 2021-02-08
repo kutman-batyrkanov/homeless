@@ -5,3 +5,4 @@ let numbers = 0;
 let color;
 
 let ul = document.querySelector('.ul');
+ul.style.display = 'flex';
