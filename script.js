@@ -10,3 +10,4 @@ ul.style.display = 'flex';
 ul.style.flexDirection = 'column'
 ul.style.justifyContent = 'center';
 ul.style.maxWidth = '150px';
+ul.style.margin = '0 auto'
