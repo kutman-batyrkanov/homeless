@@ -6,3 +6,5 @@ let color;
 
 let ul = document.querySelector('.ul');
 ul.style.display = 'flex';
+
+ul.style.flexDirection = 'column'
