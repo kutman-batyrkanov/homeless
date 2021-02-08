@@ -3,3 +3,5 @@ h1.innerText = 0;
 document.body.before(h1);
 let numbers = 0;
 let color;
+
+let ul = document.querySelector('.ul');
